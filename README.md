@@ -14,5 +14,5 @@ Hệ thống tư vấn khuyến nghị xe cũ dựa trên thuật toán Case-Bas
 - **Công nghệ:** Python, Pandas, Numpy, Scikit-learn 
 
 ## 3. Cấu trúc thư mục
-- `Code_DoThuyDuong.ipynb`: File code hoàn chỉnh bao gồm tiền xử lý dữ liệu, cài đặt thuật toán CBR/Critiquing và mô phỏng đánh giá.
+- `Code_DoThuyDuong.ipynb`: File code lần 2 bao gồm tiền xử lý dữ liệu, cài đặt thuật toán CBR/Critiquing và mô phỏng đánh giá.
 - `CAR DETAILS FROM CAR DEKHO.csv`: Tập dữ liệu gốc xe cũ.
