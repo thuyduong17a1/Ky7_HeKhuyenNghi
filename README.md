@@ -21,7 +21,7 @@ Hệ thống tư vấn khuyến nghị xe cũ dựa trên thuật toán Case-Bas
 ├── Code_DoThuyDuong.ipynb : File code lần 2 (tiền xử lý, CBR/Critiquing và mô phỏng sơ bộ)
 ├── PhuLucB_BaoCaoTienDo.docx : File báo cáo tiến độ lần 2 (Mốc KT2)
 ├── BaoCaoLan2_DoThuyDuong.docx : File báo cáo lần 2
-├── BaoCaoCuoiKy_DoThuyDuong.docx : File báo cáo tổng kết cuối kỳ
+├── BaoCaoCuoiKy_DoThuyDuong.pdf : File báo cáo tổng kết cuối kỳ
 └── ThucHanh/ : Thư mục mã nguồn và thực nghiệm hoàn thiện
     ├── recommendation.py : Module hợp nhất: lõi CBR (CarRecommender), mô phỏng đánh giá (evaluate), vẽ biểu đồ (figures) và kiểm thử đơn vị (test)
     ├── website/app.py : Máy chủ web HTTP cục bộ kết nối giao diện với recommendation.py
